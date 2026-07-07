@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.highlight {
+  background-color: rgb(255, 167, 167);
+  font-family: Verdana, "DejaVu Sans", sans-serif; 
+}
+
+#id-1 {
+    color: blue;
+    font-size: 48px;
+}
+
+#id-2 {
+  background-color: green;
+  font-size: 36px;
+}
+
+.adjust-font-size {
+  font-size: 46px;
+}
