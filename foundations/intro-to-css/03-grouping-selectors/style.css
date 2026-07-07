@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.dark, .light {
+  padding: 20px;
+  border-radius: 5px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.light {
+  background-color: #fff;
+  color: #333;
+}
